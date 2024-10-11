@@ -1,0 +1,13 @@
+.dashboard {
+    padding-top: 60px; /* Space for the navbar */
+    background-color: #f9f9f9;
+  }
+  
+  .video-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    height: 100vh;
+  }
+  
